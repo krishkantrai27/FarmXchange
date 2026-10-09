@@ -1,0 +1,23 @@
+# Dependencies & Build
+node_modules/
+target/
+build/
+dist/
+.mvn/wrapper/maven-wrapper.jar
+
+# IDEs/Editors
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug logs and temp files in root
+git_debug.txt
+git_output.txt
+out.txt
+stage*.txt
